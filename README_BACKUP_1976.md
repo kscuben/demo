@@ -9,5 +9,3 @@ just some updates,on a branch.
 
 #while explaining conflicts 
 >>>>>>> very-bad
-
-//changing this file after updated in very-bad branch
