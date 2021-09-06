@@ -11,3 +11,7 @@ just some updates,on a branch.
 >>>>>>> very-bad
 
 //changing this file after updated in very-bad branch
+
+
+
+//just something
